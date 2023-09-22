@@ -1,3 +1,7 @@
+#Output
+![Screenshot (70)](https://github.com/udhayavs/React-Calculator/assets/119739761/08359a58-e6cb-4538-b20b-1c7148aaef71)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
